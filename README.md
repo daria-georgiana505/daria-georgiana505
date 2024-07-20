@@ -1,5 +1,15 @@
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRzZTB4ZHcyNHBmZHZ0Z2F6cWpibm1yd2dhYXF5ZGFqMDdxMnc3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="www.linkedin.com/in/daria-georgiana-feneșan-4780a62a1">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ### About me 
-**Last year Computer Science student at "Babes-Bolyai" University in Cluj-Napoca, Romania**
+_**Last year Computer Science student at "Babes-Bolyai" University in Cluj-Napoca, Romania**_
 
 - A pragmatic student seeking to acquire new skills and apply existing knowledge
 - Enthusiastic about **Java** and **C#** and aspiring to become a **Backend developer**
@@ -30,9 +40,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+[//]: # (### Stats)
+
+[//]: # ()
+[//]: # ([![GitHub Streak]&#40;http://github-readme-streak-stats.herokuapp.com?user=daria-georgiana505&theme=dark&background=000000&#41;]&#40;https://git.io/streak-stats&#41;)
+
+[//]: # ()
 [//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=daria-georgiana505&layout=compact&theme=vision-friendly-dark&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
----
+[//]: # ()
+[//]: # (---)
 
 
 <!--
