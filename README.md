@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/daria-georgiana-feneșan-4780a62a1">
+  <a href="https://www.linkedin.com/in/daria-georgiana-fene%C8%99an-4780a62a1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -40,18 +40,19 @@ _**Last year Computer Science student at "Babes-Bolyai" University in Cluj-Napoc
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
----
+[//]: # (---)
 
+[//]: # ()
 [//]: # (### Stats)
 
+[//]: # ()
 [//]: # ()
 [//]: # ([![GitHub Streak]&#40;http://github-readme-streak-stats.herokuapp.com?user=daria-georgiana505&theme=dark&background=000000&#41;]&#40;https://git.io/streak-stats&#41;)
 
 [//]: # ()
+[//]: # ()
 [//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=daria-georgiana505&layout=compact&theme=vision-friendly-dark&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
-[//]: # ()
-[//]: # (---)
 
 
 <!--
