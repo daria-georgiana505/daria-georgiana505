@@ -12,11 +12,9 @@
 _**Last year Computer Science student at "Babes-Bolyai" University in Cluj-Napoca, Romania**_
 
 - A pragmatic student seeking to acquire new skills and apply existing knowledge
-- Enthusiastic about **Java** and **C#** and aspiring to become a **Backend developer**
-- Familiar with Agile Methodology, teamworking and problem solving from my experience as an intern at a project organized by Raiffeisen Bank Romania
-- Currently learning **Kotlin** and stuff about **Android development**
-- Planning to develop a mobile application that allows users to create groups where each member can specify their available and unavailable times. The app will then analyze these schedules to identify common free periods when all group members are available, facilitating scheduling of group activities 
-
+- Passionate about **Spring Boot (Java)** and **.NET (C#)** and aspiring to become a **Backend developer**
+- Familiar with Agile Methodology, teamworking and problem solving from my experience as an intern at a project organized by Raiffeisen Bank Romania and team projects using .NET for university
+- Working as a **Freelance Backend Developer**, designing and implementing scalable backend services and APIs for PlaysVault
 ---
 
 ### Languages, frameworks and tools known
@@ -30,6 +28,7 @@ _**Last year Computer Science student at "Babes-Bolyai" University in Cluj-Napoc
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET" alt="Dotnet" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
@@ -37,6 +36,7 @@ _**Last year Computer Science student at "Babes-Bolyai" University in Cluj-Napoc
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="Microsoft SQL Server" alt="MSSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services"  alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
