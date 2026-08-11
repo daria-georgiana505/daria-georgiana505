@@ -9,13 +9,14 @@
 </div>
 
 ### About me 
-_**Last year Computer Science student at "Babes-Bolyai" University in Cluj-Napoca, Romania**_
+_**Technology Graduate Associate @ LSEG | B.Sc. Computer Science @ BBU Cluj-Napoca**_
 
-- A pragmatic student seeking to acquire new skills and apply existing knowledge
-- Passionate about **Spring Boot (Java)** and **.NET (C#)** and aspiring to become a **Backend developer**
-- Familiar with Agile Methodology, teamworking and problem solving from my experience as an intern at a project organized by Raiffeisen Bank Romania and team projects using .NET for university
-- Worked as a **Freelance Backend Developer**, designing and implementing scalable backend services and APIs for PlaysVault
-- Developed a **Spring Boot** and **MongoDB** backend for a university team project, a marketplace for handmade products
+- One year of experience as a **Technology Graduate Associate** at **LSEG**, developing Java Spring Boot REST APIs and automated tests with Playwright.
+- Graduated with a **Bachelor of Science (B.Sc.)** in **Computer Science** from **Babeș-Bolyai University, Cluj-Napoca**.
+- Experienced in **Java**, **Spring Boot**, **REST APIs**, **AWS**, **SQL** and **Playwright**.
+- Additional experience with C#, JavaScript, Python, React, MongoDB, and .NET through internships, freelance work, and personal projects.
+- Passionate about backend development, cloud computing, and scalable system design.
+- Source code for my projects is available on my GitHub profile.
 ---
 
 ### Languages, frameworks and tools known
@@ -42,6 +43,7 @@ _**Last year Computer Science student at "Babes-Bolyai" University in Cluj-Napoc
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services"  alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>
 </div>
 
 [//]: # (---)
